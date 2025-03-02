@@ -1,2 +1,2 @@
-# CASPEr-limits
+# CASPEr-sensitivity
 Sensitivity limits of CASPEr
